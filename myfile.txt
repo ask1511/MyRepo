@@ -1,10 +1,1 @@
- Volume in drive D is EDUSOFT
- Volume Serial Number is BAD5-D537
-
- Directory of D:\EDUCATIONAL\Git
-
-25-12-2019  07:46    <DIR>          .
-25-12-2019  07:46    <DIR>          ..
-25-12-2019  07:46                 0 myfile.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  16,577,998,848 bytes free
+change 1
